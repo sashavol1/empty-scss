@@ -5,3 +5,8 @@ Start (basic) html template with scss and gulp 2020
 - папку /lib/
 - reset для стилей
 - что ещё?
+
+## Как установить
+- клонировать репозитарий
+- установить libs for nodejs и указать пути в gulpfile.js 
+- profit
